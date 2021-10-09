@@ -178,7 +178,7 @@ public interface CS3ClientInterface {
 
     /**
      * list object by The specified bucket
-     * default bucketName is "cechealth.default"
+     * default bucketName is "default"
      * @param bucektName
      * @return
      */

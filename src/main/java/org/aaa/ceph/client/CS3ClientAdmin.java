@@ -34,7 +34,7 @@ public enum CS3ClientAdmin implements CS3ClientInterface {
         private String secretKey = "Y9KWiLCP8RtwvmMsnhXUxtL13pXPw61WPjiFXC74";
         /**
          * the endpoint to be used for requests.
-         * <p>For example: cechealth ceph rgw's ip
+         * <p>For example: ceph rgw's ip
          */
         private String endpoint = "http://172.16.57.50:8080";
 
